@@ -1,0 +1,91 @@
+.main {
+  background-color: #070939;
+  color: white;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  padding: 3rem 5rem;
+}
+.main h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.mid h3 {
+  color: #7a84b8;
+  font-size: 1.5rem;
+}
+.mid p {
+  text-align: center;
+}
+.btnp {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+.secOne {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+.secTwo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+.secThree {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+.secOneOne {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.buttonOne {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #6373a4;
+  padding: 0.7rem 2rem;
+  border-radius: 5px;
+}
+.line {
+  border: 2px solid white;
+  width: 30%;
+}
+.mid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+.midOne {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+}
+.last {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}
